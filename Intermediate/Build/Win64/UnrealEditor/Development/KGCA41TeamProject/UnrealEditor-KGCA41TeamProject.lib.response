@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-KGCA41TeamProject.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\githubSkill\TeamProject\Intermediate\Build\Win64\KGCA41TeamProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\githubSkill\TeamProject\Intermediate\Build\Win64\UnrealEditor\Development\KGCA41TeamProject\KGCA41TeamProject.cpp.obj"
+"D:\githubSkill\TeamProject\Intermediate\Build\Win64\UnrealEditor\Development\KGCA41TeamProject\KGCA41TeamProjectGameModeBase.cpp.obj"
+"D:\githubSkill\TeamProject\Intermediate\Build\Win64\UnrealEditor\Development\KGCA41TeamProject\KGCA41TeamProject.init.gen.cpp.obj"
+"D:\githubSkill\TeamProject\Intermediate\Build\Win64\UnrealEditor\Development\KGCA41TeamProject\KGCA41TeamProjectGameModeBase.gen.cpp.obj"
+"D:\githubSkill\TeamProject\Intermediate\Build\Win64\UnrealEditor\Development\KGCA41TeamProject\Default.rc2.res"
+/OUT:"D:\githubSkill\TeamProject\Intermediate\Build\Win64\UnrealEditor\Development\KGCA41TeamProject\UnrealEditor-KGCA41TeamProject.lib"

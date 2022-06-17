@@ -1,0 +1,37 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "f:\\project\\github\\kgca41teamproject\\plugins\\sh_map\\intermediate\\build\\win64\\unrealeditor\\debuggame\\sh_map\\module.sh_map.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\project\\github\\kgca41teamproject\\intermediate\\build\\win64\\kgca41teamprojecteditor\\debuggame\\engine\\sharedpch.engine.nonoptimized.shadowerrors.h.pch",
+        "Includes": [
+            "f:\\project\\github\\kgca41teamproject\\plugins\\sh_map\\intermediate\\build\\win64\\unrealeditor\\debuggame\\sh_map\\definitions.sh_map.h",
+            "f:\\project\\github\\kgca41teamproject\\plugins\\sh_map\\source\\sh_map\\private\\cpp_block_small_low.cpp",
+            "f:\\project\\github\\kgca41teamproject\\plugins\\sh_map\\source\\sh_map\\public\\cpp_block_small_low.h",
+            "f:\\project\\github\\kgca41teamproject\\plugins\\sh_map\\intermediate\\build\\win64\\unrealeditor\\inc\\sh_map\\cpp_block_small_low.generated.h",
+            "d:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "d:\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "d:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\kismetsystemlibrary.generated.h",
+            "d:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetmathlibrary.h",
+            "d:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\kismetmathlibrary.generated.h",
+            "d:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetmathlibrary.inl",
+            "f:\\project\\github\\kgca41teamproject\\plugins\\sh_map\\source\\sh_map\\private\\cpp_floordisc_low.cpp",
+            "f:\\project\\github\\kgca41teamproject\\plugins\\sh_map\\source\\sh_map\\public\\cpp_floordisc_low.h",
+            "f:\\project\\github\\kgca41teamproject\\plugins\\sh_map\\intermediate\\build\\win64\\unrealeditor\\inc\\sh_map\\cpp_floordisc_low.generated.h",
+            "f:\\project\\github\\kgca41teamproject\\plugins\\sh_map\\source\\sh_map\\private\\cpp_floordisc_small_low.cpp",
+            "f:\\project\\github\\kgca41teamproject\\plugins\\sh_map\\source\\sh_map\\public\\cpp_floordisc_small_low.h",
+            "f:\\project\\github\\kgca41teamproject\\plugins\\sh_map\\intermediate\\build\\win64\\unrealeditor\\inc\\sh_map\\cpp_floordisc_small_low.generated.h",
+            "f:\\project\\github\\kgca41teamproject\\plugins\\sh_map\\source\\sh_map\\private\\cpp_spinning_4.cpp",
+            "f:\\project\\github\\kgca41teamproject\\plugins\\sh_map\\source\\sh_map\\public\\cpp_spinning_4.h",
+            "f:\\project\\github\\kgca41teamproject\\plugins\\sh_map\\intermediate\\build\\win64\\unrealeditor\\inc\\sh_map\\cpp_spinning_4.generated.h",
+            "d:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\boxcomponent.h",
+            "d:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "d:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\shapecomponent.generated.h",
+            "d:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\boxcomponent.generated.h",
+            "f:\\project\\github\\kgca41teamproject\\plugins\\sh_map\\source\\sh_map\\private\\sh_map.cpp",
+            "f:\\project\\github\\kgca41teamproject\\plugins\\sh_map\\source\\sh_map\\public\\sh_map.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

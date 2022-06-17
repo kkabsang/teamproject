@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Soo_Character-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\project\GitHub\KGCA41TeamProject\Intermediate\Build\Win64\KGCA41TeamProjectEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h.obj"
+"F:\project\GitHub\KGCA41TeamProject\Plugins\Character\Soo_Character\Intermediate\Build\Win64\UnrealEditor\DebugGame\Soo_Character\Soo_Character.cpp.obj"
+"F:\project\GitHub\KGCA41TeamProject\Plugins\Character\Soo_Character\Intermediate\Build\Win64\UnrealEditor\DebugGame\Soo_Character\Default.rc2.res"
+/OUT:"F:\project\GitHub\KGCA41TeamProject\Plugins\Character\Soo_Character\Intermediate\Build\Win64\UnrealEditor\DebugGame\Soo_Character\UnrealEditor-Soo_Character-Win64-DebugGame.lib"

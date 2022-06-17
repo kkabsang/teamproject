@@ -1,0 +1,13 @@
+{
+	"SourceFiles": [
+		"D:\\githubSkill\\TeamProject\\Source\\KGCA41TeamProject\\KGCA41TeamProject.Build.cs",
+		"D:\\githubSkill\\TeamProject\\Plugins\\Character\\Soo_Character\\Source\\Soo_Character\\Soo_Character.Build.cs",
+		"D:\\githubSkill\\TeamProject\\Plugins\\DS_Ui\\Source\\DS_Ui\\DS_Ui.Build.cs",
+		"D:\\githubSkill\\TeamProject\\Plugins\\JW_Effect\\Source\\JW_Effect\\JW_Effect.Build.cs",
+		"D:\\githubSkill\\TeamProject\\Plugins\\SH_Map\\Source\\SH_Map\\SH_Map.Build.cs",
+		"D:\\githubSkill\\TeamProject\\Plugins\\Soo_Ai\\Source\\Soo_Ai\\Soo_Ai.Build.cs",
+		"D:\\githubSkill\\TeamProject\\Source\\KGCA41TeamProject.Target.cs",
+		"D:\\githubSkill\\TeamProject\\Source\\KGCA41TeamProjectEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.1"
+}

@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\KGCA41TeamProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\KGCA41TeamProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\KGCA41TeamProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitattributes" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultNiagara.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\HoloLens">
+      <UniqueIdentifier>{4C8DD267-CDE7-336F-8602-F5F485D22BAB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\HoloLens\HoloLensEngine.ini">
+      <Filter>Config\HoloLens</Filter>
+    </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{BB38096A-B391-30DC-A0D4-4F3EA6B44507}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\Character">
+      <UniqueIdentifier>{E50B72F1-8F87-32AB-953F-298BD7F59A65}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\Character\Soo_Character">
+      <UniqueIdentifier>{A1D4D6BB-F0CF-3DF4-9E2A-81B17845AA32}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\Character\Soo_Character\Source">
+      <UniqueIdentifier>{0019D505-418F-3621-AA88-3EB9A9183F5B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\Character\Soo_Character\Source\Soo_Character">
+      <UniqueIdentifier>{A48B1D99-2AED-37A5-AE94-076EF49B80D2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\Character\Soo_Character\Source\Soo_Character\Soo_Character.Build.cs">
+      <Filter>Plugins\Character\Soo_Character\Source\Soo_Character</Filter>
+    </None>
+    <Filter Include="Plugins\Character\Soo_Character\Source\Soo_Character\Private">
+      <UniqueIdentifier>{F7B36B11-20CE-3A38-A593-2E13F4854731}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\Character\Soo_Character\Source\Soo_Character\Private\Soo_Character.cpp">
+      <Filter>Plugins\Character\Soo_Character\Source\Soo_Character\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\Character\Soo_Character\Source\Soo_Character\Public">
+      <UniqueIdentifier>{DCEE3F15-30EA-372F-94F1-AA2C82603BA5}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\Character\Soo_Character\Source\Soo_Character\Public\Soo_Character.h">
+      <Filter>Plugins\Character\Soo_Character\Source\Soo_Character\Public</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\Character\Soo_Character\Soo_Character.uplugin">
+      <Filter>Plugins\Character\Soo_Character</Filter>
+    </None>
+    <Filter Include="Plugins\Character\Soo_Character\Resources">
+      <UniqueIdentifier>{9A95C647-E9B2-39DF-9C62-59FA678B5D18}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\Character\Soo_Character\Resources\Icon128.png">
+      <Filter>Plugins\Character\Soo_Character\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\DS_Ui">
+      <UniqueIdentifier>{BEB8E029-8B0C-3B61-9795-8D01DED85724}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\DS_Ui\DS_Ui.uplugin">
+      <Filter>Plugins\DS_Ui</Filter>
+    </None>
+    <Filter Include="Plugins\DS_Ui\Resources">
+      <UniqueIdentifier>{BAA297C5-74F0-369C-9EE8-503C72B219B3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\DS_Ui\Resources\Icon128.png">
+      <Filter>Plugins\DS_Ui\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\JW_Effect">
+      <UniqueIdentifier>{B96CD6B8-AC15-3E77-9A1E-C1DB05CE12C0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\JW_Effect\JW_Effect.uplugin">
+      <Filter>Plugins\JW_Effect</Filter>
+    </None>
+    <Filter Include="Plugins\JW_Effect\Resources">
+      <UniqueIdentifier>{79AF178F-3482-3DAD-8511-69A2EBC33FDF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\JW_Effect\Resources\Icon128.png">
+      <Filter>Plugins\JW_Effect\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\SH_Map">
+      <UniqueIdentifier>{4FDFC582-036C-3E1E-94A3-50DC96D6446C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\SH_Map\SH_Map.uplugin">
+      <Filter>Plugins\SH_Map</Filter>
+    </None>
+    <Filter Include="Plugins\SH_Map\Resources">
+      <UniqueIdentifier>{7DA69F6E-EF00-332F-B0D3-6C02328467A3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\SH_Map\Resources\Icon128.png">
+      <Filter>Plugins\SH_Map\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\Soo_Ai">
+      <UniqueIdentifier>{5B282EC8-61FF-31B2-B30E-01259DEA9C8D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\Soo_Ai\Soo_Ai.uplugin">
+      <Filter>Plugins\Soo_Ai</Filter>
+    </None>
+    <Filter Include="Plugins\Soo_Ai\Resources">
+      <UniqueIdentifier>{D061DB6C-95C8-3E83-B799-325A689C5E9C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\Soo_Ai\Resources\Icon128.png">
+      <Filter>Plugins\Soo_Ai\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\DS_Ui\Source">
+      <UniqueIdentifier>{765A03E0-245F-3299-BBCB-3ABDB2A6B9DE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\DS_Ui\Source\DS_Ui">
+      <UniqueIdentifier>{994295E6-DC5E-3536-A213-6339D70BA40A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\DS_Ui\Source\DS_Ui\DS_Ui.Build.cs">
+      <Filter>Plugins\DS_Ui\Source\DS_Ui</Filter>
+    </None>
+    <Filter Include="Plugins\DS_Ui\Source\DS_Ui\Private">
+      <UniqueIdentifier>{6698B3EB-04D8-3AC4-AB51-32746FB14175}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\DS_Ui\Source\DS_Ui\Private\DS_Ui.cpp">
+      <Filter>Plugins\DS_Ui\Source\DS_Ui\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\DS_Ui\Source\DS_Ui\Public">
+      <UniqueIdentifier>{640E8B0A-00AF-36B6-ACE3-B61EF60C520B}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\DS_Ui\Source\DS_Ui\Public\DS_Ui.h">
+      <Filter>Plugins\DS_Ui\Source\DS_Ui\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\JW_Effect\Source">
+      <UniqueIdentifier>{E84834A2-2924-396F-A71C-940BF3E3AF6C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\JW_Effect\Source\JW_Effect">
+      <UniqueIdentifier>{1A134C40-2F7C-33DC-9DB8-9B5D97FC5F09}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\JW_Effect\Source\JW_Effect\JW_Effect.Build.cs">
+      <Filter>Plugins\JW_Effect\Source\JW_Effect</Filter>
+    </None>
+    <Filter Include="Plugins\JW_Effect\Source\JW_Effect\Private">
+      <UniqueIdentifier>{77D50FA4-B730-3CCD-ACFE-C1B2F855DEB0}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\JW_Effect\Source\JW_Effect\Private\JW_Effect.cpp">
+      <Filter>Plugins\JW_Effect\Source\JW_Effect\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\JW_Effect\Source\JW_Effect\Public">
+      <UniqueIdentifier>{2F4A06E3-3DCF-375E-AB84-51769E78CEE3}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\JW_Effect\Source\JW_Effect\Public\JW_Effect.h">
+      <Filter>Plugins\JW_Effect\Source\JW_Effect\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\SH_Map\Source">
+      <UniqueIdentifier>{734975D5-F9EC-35C6-8619-8E8A80E35B95}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\SH_Map\Source\SH_Map">
+      <UniqueIdentifier>{CD7BE7E2-6576-3F7B-8581-ECB531F2B0D9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\SH_Map\Source\SH_Map\SH_Map.Build.cs">
+      <Filter>Plugins\SH_Map\Source\SH_Map</Filter>
+    </None>
+    <Filter Include="Plugins\SH_Map\Source\SH_Map\Private">
+      <UniqueIdentifier>{66035ECF-19A8-3979-99AF-C262A1CBC2FE}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\SH_Map\Source\SH_Map\Private\SH_Map.cpp">
+      <Filter>Plugins\SH_Map\Source\SH_Map\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\SH_Map\Source\SH_Map\Public">
+      <UniqueIdentifier>{1400095C-B13C-3F98-A8B5-AB6CF7EA3CD0}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\SH_Map\Source\SH_Map\Public\SH_Map.h">
+      <Filter>Plugins\SH_Map\Source\SH_Map\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Soo_Ai\Source">
+      <UniqueIdentifier>{7E8DB774-C74D-3380-AFFF-6226E95DAC5A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\Soo_Ai\Source\Soo_Ai">
+      <UniqueIdentifier>{813D38C3-26B3-34EE-80E2-96F4F59A9FB3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\Soo_Ai\Source\Soo_Ai\Soo_Ai.Build.cs">
+      <Filter>Plugins\Soo_Ai\Source\Soo_Ai</Filter>
+    </None>
+    <Filter Include="Plugins\Soo_Ai\Source\Soo_Ai\Private">
+      <UniqueIdentifier>{AA13363E-71FF-3AF1-9EEA-839F656C4EA8}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\Soo_Ai\Source\Soo_Ai\Private\Soo_Ai.cpp">
+      <Filter>Plugins\Soo_Ai\Source\Soo_Ai\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\Soo_Ai\Source\Soo_Ai\Public">
+      <UniqueIdentifier>{D602405F-42F9-3761-8CD4-135FF6BAE149}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\Soo_Ai\Source\Soo_Ai\Public\Soo_Ai.h">
+      <Filter>Plugins\Soo_Ai\Source\Soo_Ai\Public</Filter>
+    </ClInclude>
+    <Filter Include="Source\KGCA41TeamProject">
+      <UniqueIdentifier>{DCC815AB-A959-3961-9310-0AF1A1C9F21E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\KGCA41TeamProject\KGCA41TeamProject.Build.cs">
+      <Filter>Source\KGCA41TeamProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\KGCA41TeamProject\KGCA41TeamProject.cpp">
+      <Filter>Source\KGCA41TeamProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\KGCA41TeamProject\KGCA41TeamProject.h">
+      <Filter>Source\KGCA41TeamProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\KGCA41TeamProject\KGCA41TeamProjectGameModeBase.cpp">
+      <Filter>Source\KGCA41TeamProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\KGCA41TeamProject\KGCA41TeamProjectGameModeBase.h">
+      <Filter>Source\KGCA41TeamProject</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

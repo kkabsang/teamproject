@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\githubskill\\teamproject\\source\\kgca41teamproject\\kgca41teamprojectgamemodebase.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\githubskill\\teamproject\\intermediate\\build\\win64\\kgca41teamprojecteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\githubskill\\teamproject\\intermediate\\build\\win64\\unrealeditor\\development\\kgca41teamproject\\definitions.kgca41teamproject.h",
+            "d:\\githubskill\\teamproject\\source\\kgca41teamproject\\kgca41teamprojectgamemodebase.h",
+            "e:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "e:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "e:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "e:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "d:\\githubskill\\teamproject\\intermediate\\build\\win64\\unrealeditor\\inc\\kgca41teamproject\\kgca41teamprojectgamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

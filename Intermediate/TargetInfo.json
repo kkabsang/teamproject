@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "KGCA41TeamProject",
+			"Path": "D:\\githubSkill\\TeamProject\\Source\\KGCA41TeamProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "KGCA41TeamProjectEditor",
+			"Path": "D:\\githubSkill\\TeamProject\\Source\\KGCA41TeamProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

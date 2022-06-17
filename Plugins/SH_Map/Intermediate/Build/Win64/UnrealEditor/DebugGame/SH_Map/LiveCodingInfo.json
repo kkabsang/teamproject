@@ -1,0 +1,27 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SH_Map.cpp.obj": [
+			"Cpp_Block_small_low.cpp.obj",
+			"Cpp_CubeTile_low.cpp.obj",
+			"Cpp_FloorDisc_low.cpp.obj",
+			"Cpp_FloorDisc_small_low.cpp.obj",
+			"Cpp_HexTile_low.cpp.obj",
+			"Cpp_SpinningBaton_2.cpp.obj",
+			"Cpp_SpinningBaton_4.cpp.obj",
+			"Cpp_Spinning_4.cpp.obj",
+			"SH_Map.cpp.obj"
+		],
+		"Module.SH_Map.gen.cpp.obj": [
+			"Cpp_Block_small_low.gen.cpp.obj",
+			"Cpp_CubeTile_low.gen.cpp.obj",
+			"Cpp_FloorDisc_low.gen.cpp.obj",
+			"Cpp_FloorDisc_small_low.gen.cpp.obj",
+			"Cpp_HexTile_low.gen.cpp.obj",
+			"Cpp_SpinningBaton_2.gen.cpp.obj",
+			"Cpp_SpinningBaton_4.gen.cpp.obj",
+			"Cpp_Spinning_4.gen.cpp.obj",
+			"SH_Map.init.gen.cpp.obj"
+		]
+	}
+}

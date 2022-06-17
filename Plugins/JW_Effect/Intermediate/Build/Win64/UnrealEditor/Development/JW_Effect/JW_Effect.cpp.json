@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "e:\\git\\kgca41teamproject\\plugins\\jw_effect\\source\\jw_effect\\private\\jw_effect.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\git\\kgca41teamproject\\intermediate\\build\\win64\\kgca41teamprojecteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\git\\kgca41teamproject\\plugins\\jw_effect\\intermediate\\build\\win64\\unrealeditor\\development\\jw_effect\\definitions.jw_effect.h",
+            "e:\\git\\kgca41teamproject\\plugins\\jw_effect\\source\\jw_effect\\public\\jw_effect.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-JW_Effect.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\git\KGCA41TeamProject\Intermediate\Build\Win64\KGCA41TeamProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\git\KGCA41TeamProject\Plugins\JW_Effect\Intermediate\Build\Win64\UnrealEditor\Development\JW_Effect\JW_Effect.cpp.obj"
+"E:\git\KGCA41TeamProject\Plugins\JW_Effect\Intermediate\Build\Win64\UnrealEditor\Development\JW_Effect\Default.rc2.res"
+/OUT:"E:\git\KGCA41TeamProject\Plugins\JW_Effect\Intermediate\Build\Win64\UnrealEditor\Development\JW_Effect\UnrealEditor-JW_Effect.lib"

@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-SH_Map.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\kgca409992\Documents\GitHub\KGCA41TeamProject\Intermediate\Build\Win64\KGCA41TeamProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\kgca409992\Documents\GitHub\KGCA41TeamProject\Plugins\SH_Map\Intermediate\Build\Win64\UnrealEditor\Development\SH_Map\SH_Map.cpp.obj"
+"C:\Users\kgca409992\Documents\GitHub\KGCA41TeamProject\Plugins\SH_Map\Intermediate\Build\Win64\UnrealEditor\Development\SH_Map\Default.rc2.res"
+/OUT:"C:\Users\kgca409992\Documents\GitHub\KGCA41TeamProject\Plugins\SH_Map\Intermediate\Build\Win64\UnrealEditor\Development\SH_Map\UnrealEditor-SH_Map.lib"

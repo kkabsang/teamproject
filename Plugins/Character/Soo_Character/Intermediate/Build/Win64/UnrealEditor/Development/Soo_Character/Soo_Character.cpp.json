@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "e:\\git\\kgca41teamproject\\plugins\\character\\soo_character\\source\\soo_character\\private\\soo_character.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\git\\kgca41teamproject\\intermediate\\build\\win64\\kgca41teamprojecteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\git\\kgca41teamproject\\plugins\\character\\soo_character\\intermediate\\build\\win64\\unrealeditor\\development\\soo_character\\definitions.soo_character.h",
+            "e:\\git\\kgca41teamproject\\plugins\\character\\soo_character\\source\\soo_character\\public\\soo_character.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

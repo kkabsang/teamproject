@@ -1,0 +1,26 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "f:\\project\\github\\kgca41teamproject\\plugins\\sh_map\\intermediate\\build\\win64\\unrealeditor\\debuggame\\sh_map\\module.sh_map.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\project\\github\\kgca41teamproject\\intermediate\\build\\win64\\kgca41teamprojecteditor\\debuggame\\engine\\sharedpch.engine.nonoptimized.shadowerrors.h.pch",
+        "Includes": [
+            "f:\\project\\github\\kgca41teamproject\\plugins\\sh_map\\intermediate\\build\\win64\\unrealeditor\\debuggame\\sh_map\\definitions.sh_map.h",
+            "f:\\project\\github\\kgca41teamproject\\plugins\\sh_map\\intermediate\\build\\win64\\unrealeditor\\inc\\sh_map\\cpp_block_small_low.gen.cpp",
+            "f:\\project\\github\\kgca41teamproject\\plugins\\sh_map\\source\\sh_map\\public\\cpp_block_small_low.h",
+            "f:\\project\\github\\kgca41teamproject\\plugins\\sh_map\\intermediate\\build\\win64\\unrealeditor\\inc\\sh_map\\cpp_block_small_low.generated.h",
+            "f:\\project\\github\\kgca41teamproject\\plugins\\sh_map\\intermediate\\build\\win64\\unrealeditor\\inc\\sh_map\\cpp_floordisc_low.gen.cpp",
+            "f:\\project\\github\\kgca41teamproject\\plugins\\sh_map\\source\\sh_map\\public\\cpp_floordisc_low.h",
+            "f:\\project\\github\\kgca41teamproject\\plugins\\sh_map\\intermediate\\build\\win64\\unrealeditor\\inc\\sh_map\\cpp_floordisc_low.generated.h",
+            "f:\\project\\github\\kgca41teamproject\\plugins\\sh_map\\intermediate\\build\\win64\\unrealeditor\\inc\\sh_map\\cpp_floordisc_small_low.gen.cpp",
+            "f:\\project\\github\\kgca41teamproject\\plugins\\sh_map\\source\\sh_map\\public\\cpp_floordisc_small_low.h",
+            "f:\\project\\github\\kgca41teamproject\\plugins\\sh_map\\intermediate\\build\\win64\\unrealeditor\\inc\\sh_map\\cpp_floordisc_small_low.generated.h",
+            "f:\\project\\github\\kgca41teamproject\\plugins\\sh_map\\intermediate\\build\\win64\\unrealeditor\\inc\\sh_map\\cpp_spinning_4.gen.cpp",
+            "f:\\project\\github\\kgca41teamproject\\plugins\\sh_map\\source\\sh_map\\public\\cpp_spinning_4.h",
+            "f:\\project\\github\\kgca41teamproject\\plugins\\sh_map\\intermediate\\build\\win64\\unrealeditor\\inc\\sh_map\\cpp_spinning_4.generated.h",
+            "f:\\project\\github\\kgca41teamproject\\plugins\\sh_map\\intermediate\\build\\win64\\unrealeditor\\inc\\sh_map\\sh_map.init.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

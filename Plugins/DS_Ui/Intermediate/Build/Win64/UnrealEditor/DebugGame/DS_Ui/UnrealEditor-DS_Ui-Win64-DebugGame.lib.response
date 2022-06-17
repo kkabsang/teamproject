@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-DS_Ui-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\project\GitHub\KGCA41TeamProject\Intermediate\Build\Win64\KGCA41TeamProjectEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h.obj"
+"F:\project\GitHub\KGCA41TeamProject\Plugins\DS_Ui\Intermediate\Build\Win64\UnrealEditor\DebugGame\DS_Ui\DS_Ui.cpp.obj"
+"F:\project\GitHub\KGCA41TeamProject\Plugins\DS_Ui\Intermediate\Build\Win64\UnrealEditor\DebugGame\DS_Ui\Default.rc2.res"
+/OUT:"F:\project\GitHub\KGCA41TeamProject\Plugins\DS_Ui\Intermediate\Build\Win64\UnrealEditor\DebugGame\DS_Ui\UnrealEditor-DS_Ui-Win64-DebugGame.lib"

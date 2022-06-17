@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\githubskill\\teamproject\\intermediate\\build\\win64\\unrealeditor\\inc\\kgca41teamproject\\kgca41teamproject.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\githubskill\\teamproject\\intermediate\\build\\win64\\kgca41teamprojecteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\githubskill\\teamproject\\intermediate\\build\\win64\\unrealeditor\\development\\kgca41teamproject\\definitions.kgca41teamproject.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

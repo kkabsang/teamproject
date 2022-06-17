@@ -1,0 +1,17 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SH_Map.cpp.obj": [
+			"Cpp_FloorDisc_low.cpp.obj",
+			"Cpp_FloorDisc_small_low.cpp.obj",
+			"Cpp_Spinning_4.cpp.obj",
+			"SH_Map.cpp.obj"
+		],
+		"Module.SH_Map.gen.cpp.obj": [
+			"Cpp_FloorDisc_low.gen.cpp.obj",
+			"Cpp_FloorDisc_small_low.gen.cpp.obj",
+			"Cpp_Spinning_4.gen.cpp.obj",
+			"SH_Map.init.gen.cpp.obj"
+		]
+	}
+}
